@@ -1,16 +1,16 @@
-## Hi there 👋
+## 👋 Hi there! I'm Charlie
 
-<!--
-**charlie6713/charlie6713** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm currently a student at the **University of Sydney**, studying a **Bachelor of Advanced Computing**, majoring in **Software Development** and **Computer Science**.
 
-Here are some ideas to get you started:
+💻 **Skills:**
+- Programming Languages: Java, JavaScript, Python
+- Web Development: HTML, CSS, React, Node.js
+- Tools & Platforms: Git, GitHub, Vercel
+- Others: Algorithms & Data Structures, Software Engineering, Agile
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 **Currently aiming to become a Full-Stack Developer**  
+I’m passionate about building practical, scalable, and user-friendly software solutions.
+
+---
+
+
